@@ -94,10 +94,11 @@ TweetStorm-to-Wall-Street/
 
 ## Future Improvements
 
-- Use **FinGPT** or domain-specific transformers for richer sentiment
-- Integrate macroeconomic or sector-level indicators
-- Shift to serverless architecture using **AWS Lambda**
-- Evaluate **XGBoostTimeSeries** or **Prophet** models for benchmarking
+- Optimize for Cost and Performance
+- Try Finance-Specific Forecasting Models
+- Introduce Drift Detection and Alerts
+- Expand Sentiment Sources
+- Improve Dashboard Interactivity
 
 ---
 
@@ -112,8 +113,10 @@ TweetStorm-to-Wall-Street/
 
 ## Contributors
 
-- **Vineet Patel** – Data Engineering, Pipeline Automation
-- *Team Members* – ML Modeling, SageMaker Integration, Dashboard Development
+- **Vineetkumar Vijaybhai Patel** – Data Engineering, Pipeline Automation  
+- **Utsav Bharatbhai Goti** – ML Modeling, Pipeline Automation  
+- **Gagandeep Thind** – SageMaker Integration, Dashboard Development  
+- **Rehan Chanegaon** – Sentiment Analysis, Feature Engineering  
 
 ---
 
